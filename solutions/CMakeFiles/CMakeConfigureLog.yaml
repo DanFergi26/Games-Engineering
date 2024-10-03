@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Build started 03/10/2024 09:23:19.
+      Build started 03/10/2024 12:10:43.
       Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\3.30.3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -50,7 +50,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.33
+      Time Elapsed 00:00:01.45
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -76,7 +76,7 @@ events:
       The output was:
       0
       MSBuild version 17.4.1+9a89d02ff for .NET Framework
-      Build started 03/10/2024 09:23:21.
+      Build started 03/10/2024 12:10:46.
       Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\3.30.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -102,7 +102,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.04
+      Time Elapsed 00:00:01.48
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -121,8 +121,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-uznmyp"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-uznmyp"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-5y8t2s"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-5y8t2s"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -131,37 +131,37 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-uznmyp'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-5y8t2s'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3d1fc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_07098.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:22.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-uznmyp\\cmTC_3d1fc.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:48.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-5y8t2s\\cmTC_07098.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_3d1fc.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-uznmyp\\Debug\\".
-          Creating directory "cmTC_3d1fc.dir\\Debug\\cmTC_3d1fc.tlog\\".
+          Creating directory "cmTC_07098.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-5y8t2s\\Debug\\".
+          Creating directory "cmTC_07098.dir\\Debug\\cmTC_07098.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_3d1fc.dir\\Debug\\cmTC_3d1fc.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_07098.dir\\Debug\\cmTC_07098.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3d1fc.dir\\Debug\\\\" /Fd"cmTC_3d1fc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_07098.dir\\Debug\\\\" /Fd"cmTC_07098.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           CMakeCCompilerABI.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3d1fc.dir\\Debug\\\\" /Fd"cmTC_3d1fc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_07098.dir\\Debug\\\\" /Fd"cmTC_07098.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-uznmyp\\Debug\\cmTC_3d1fc.exe" /INCREMENTAL /ILK:"cmTC_3d1fc.dir\\Debug\\cmTC_3d1fc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-uznmyp/Debug/cmTC_3d1fc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-uznmyp/Debug/cmTC_3d1fc.lib" /MACHINE:X64  /machine:x64 cmTC_3d1fc.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_3d1fc.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-uznmyp\\Debug\\cmTC_3d1fc.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-5y8t2s\\Debug\\cmTC_07098.exe" /INCREMENTAL /ILK:"cmTC_07098.dir\\Debug\\cmTC_07098.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-5y8t2s/Debug/cmTC_07098.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-5y8t2s/Debug/cmTC_07098.lib" /MACHINE:X64  /machine:x64 cmTC_07098.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_07098.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-5y8t2s\\Debug\\cmTC_07098.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_3d1fc.dir\\Debug\\cmTC_3d1fc.tlog\\unsuccessfulbuild".
-          Touching "cmTC_3d1fc.dir\\Debug\\cmTC_3d1fc.tlog\\cmTC_3d1fc.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-uznmyp\\cmTC_3d1fc.vcxproj" (default targets).
+          Deleting file "cmTC_07098.dir\\Debug\\cmTC_07098.tlog\\unsuccessfulbuild".
+          Touching "cmTC_07098.dir\\Debug\\cmTC_07098.tlog\\cmTC_07098.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-5y8t2s\\cmTC_07098.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.99
+        Time Elapsed 00:00:01.13
         
       exitCode: 0
   -
@@ -201,8 +201,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-062rs0"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-062rs0"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-d7q2ww"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-d7q2ww"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -212,37 +212,37 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-062rs0'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-d7q2ww'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0e2a5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ce115.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:24.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-062rs0\\cmTC_0e2a5.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:50.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-d7q2ww\\cmTC_ce115.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_0e2a5.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-062rs0\\Debug\\".
-          Creating directory "cmTC_0e2a5.dir\\Debug\\cmTC_0e2a5.tlog\\".
+          Creating directory "cmTC_ce115.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-d7q2ww\\Debug\\".
+          Creating directory "cmTC_ce115.dir\\Debug\\cmTC_ce115.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_0e2a5.dir\\Debug\\cmTC_0e2a5.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_ce115.dir\\Debug\\cmTC_ce115.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_0e2a5.dir\\Debug\\\\" /Fd"cmTC_0e2a5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_ce115.dir\\Debug\\\\" /Fd"cmTC_ce115.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           CMakeCXXCompilerABI.cpp
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_0e2a5.dir\\Debug\\\\" /Fd"cmTC_0e2a5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_ce115.dir\\Debug\\\\" /Fd"cmTC_ce115.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-062rs0\\Debug\\cmTC_0e2a5.exe" /INCREMENTAL /ILK:"cmTC_0e2a5.dir\\Debug\\cmTC_0e2a5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-062rs0/Debug/cmTC_0e2a5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-062rs0/Debug/cmTC_0e2a5.lib" /MACHINE:X64  /machine:x64 cmTC_0e2a5.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_0e2a5.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-062rs0\\Debug\\cmTC_0e2a5.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-d7q2ww\\Debug\\cmTC_ce115.exe" /INCREMENTAL /ILK:"cmTC_ce115.dir\\Debug\\cmTC_ce115.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-d7q2ww/Debug/cmTC_ce115.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-d7q2ww/Debug/cmTC_ce115.lib" /MACHINE:X64  /machine:x64 cmTC_ce115.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_ce115.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-d7q2ww\\Debug\\cmTC_ce115.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_0e2a5.dir\\Debug\\cmTC_0e2a5.tlog\\unsuccessfulbuild".
-          Touching "cmTC_0e2a5.dir\\Debug\\cmTC_0e2a5.tlog\\cmTC_0e2a5.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-062rs0\\cmTC_0e2a5.vcxproj" (default targets).
+          Deleting file "cmTC_ce115.dir\\Debug\\cmTC_ce115.tlog\\unsuccessfulbuild".
+          Touching "cmTC_ce115.dir\\Debug\\cmTC_ce115.tlog\\cmTC_ce115.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-d7q2ww\\cmTC_ce115.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.12
+        Time Elapsed 00:00:00.98
         
       exitCode: 0
   -
@@ -283,8 +283,8 @@ events:
     checks:
       - "Looking for sys/types.h"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-6goz7q"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-6goz7q"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-l85ye3"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-l85ye3"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -295,37 +295,37 @@ events:
       variable: "HAVE_SYS_TYPES_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-6goz7q'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-l85ye3'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_51a8d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8c38d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:25.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\cmTC_51a8d.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:52.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\cmTC_8c38d.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_51a8d.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\Debug\\".
-          Creating directory "cmTC_51a8d.dir\\Debug\\cmTC_51a8d.tlog\\".
+          Creating directory "cmTC_8c38d.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\Debug\\".
+          Creating directory "cmTC_8c38d.dir\\Debug\\cmTC_8c38d.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_51a8d.dir\\Debug\\cmTC_51a8d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_8c38d.dir\\Debug\\cmTC_8c38d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51a8d.dir\\Debug\\\\" /Fd"cmTC_51a8d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\CheckIncludeFile.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8c38d.dir\\Debug\\\\" /Fd"cmTC_8c38d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\CheckIncludeFile.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           CheckIncludeFile.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_51a8d.dir\\Debug\\\\" /Fd"cmTC_51a8d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\CheckIncludeFile.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8c38d.dir\\Debug\\\\" /Fd"cmTC_8c38d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\CheckIncludeFile.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\Debug\\cmTC_51a8d.exe" /INCREMENTAL /ILK:"cmTC_51a8d.dir\\Debug\\cmTC_51a8d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-6goz7q/Debug/cmTC_51a8d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-6goz7q/Debug/cmTC_51a8d.lib" /MACHINE:X64  /machine:x64 cmTC_51a8d.dir\\Debug\\CheckIncludeFile.obj
-          cmTC_51a8d.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\Debug\\cmTC_51a8d.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\Debug\\cmTC_8c38d.exe" /INCREMENTAL /ILK:"cmTC_8c38d.dir\\Debug\\cmTC_8c38d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-l85ye3/Debug/cmTC_8c38d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-l85ye3/Debug/cmTC_8c38d.lib" /MACHINE:X64  /machine:x64 cmTC_8c38d.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_8c38d.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\Debug\\cmTC_8c38d.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_51a8d.dir\\Debug\\cmTC_51a8d.tlog\\unsuccessfulbuild".
-          Touching "cmTC_51a8d.dir\\Debug\\cmTC_51a8d.tlog\\cmTC_51a8d.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-6goz7q\\cmTC_51a8d.vcxproj" (default targets).
+          Deleting file "cmTC_8c38d.dir\\Debug\\cmTC_8c38d.tlog\\unsuccessfulbuild".
+          Touching "cmTC_8c38d.dir\\Debug\\cmTC_8c38d.tlog\\cmTC_8c38d.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-l85ye3\\cmTC_8c38d.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.16
+        Time Elapsed 00:00:00.99
         
       exitCode: 0
   -
@@ -338,8 +338,8 @@ events:
     checks:
       - "Looking for stdint.h"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-423d7p"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-423d7p"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-lgytor"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-lgytor"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -350,37 +350,37 @@ events:
       variable: "HAVE_STDINT_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-423d7p'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-lgytor'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a4ab3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_45b93.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:27.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\cmTC_a4ab3.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:53.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\cmTC_45b93.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_a4ab3.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\Debug\\".
-          Creating directory "cmTC_a4ab3.dir\\Debug\\cmTC_a4ab3.tlog\\".
+          Creating directory "cmTC_45b93.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\Debug\\".
+          Creating directory "cmTC_45b93.dir\\Debug\\cmTC_45b93.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_a4ab3.dir\\Debug\\cmTC_a4ab3.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_45b93.dir\\Debug\\cmTC_45b93.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4ab3.dir\\Debug\\\\" /Fd"cmTC_a4ab3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\CheckIncludeFile.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_45b93.dir\\Debug\\\\" /Fd"cmTC_45b93.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\CheckIncludeFile.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           CheckIncludeFile.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4ab3.dir\\Debug\\\\" /Fd"cmTC_a4ab3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\CheckIncludeFile.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_45b93.dir\\Debug\\\\" /Fd"cmTC_45b93.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\CheckIncludeFile.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\Debug\\cmTC_a4ab3.exe" /INCREMENTAL /ILK:"cmTC_a4ab3.dir\\Debug\\cmTC_a4ab3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-423d7p/Debug/cmTC_a4ab3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-423d7p/Debug/cmTC_a4ab3.lib" /MACHINE:X64  /machine:x64 cmTC_a4ab3.dir\\Debug\\CheckIncludeFile.obj
-          cmTC_a4ab3.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\Debug\\cmTC_a4ab3.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\Debug\\cmTC_45b93.exe" /INCREMENTAL /ILK:"cmTC_45b93.dir\\Debug\\cmTC_45b93.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-lgytor/Debug/cmTC_45b93.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-lgytor/Debug/cmTC_45b93.lib" /MACHINE:X64  /machine:x64 cmTC_45b93.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_45b93.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\Debug\\cmTC_45b93.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_a4ab3.dir\\Debug\\cmTC_a4ab3.tlog\\unsuccessfulbuild".
-          Touching "cmTC_a4ab3.dir\\Debug\\cmTC_a4ab3.tlog\\cmTC_a4ab3.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-423d7p\\cmTC_a4ab3.vcxproj" (default targets).
+          Deleting file "cmTC_45b93.dir\\Debug\\cmTC_45b93.tlog\\unsuccessfulbuild".
+          Touching "cmTC_45b93.dir\\Debug\\cmTC_45b93.tlog\\cmTC_45b93.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-lgytor\\cmTC_45b93.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.06
+        Time Elapsed 00:00:01.33
         
       exitCode: 0
   -
@@ -393,8 +393,8 @@ events:
     checks:
       - "Looking for stddef.h"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-p739hq"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-p739hq"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-ozez3b"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-ozez3b"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -405,37 +405,37 @@ events:
       variable: "HAVE_STDDEF_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-p739hq'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-ozez3b'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4b255.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_17dbd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:29.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\cmTC_4b255.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:55.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\cmTC_17dbd.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_4b255.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\Debug\\".
-          Creating directory "cmTC_4b255.dir\\Debug\\cmTC_4b255.tlog\\".
+          Creating directory "cmTC_17dbd.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\Debug\\".
+          Creating directory "cmTC_17dbd.dir\\Debug\\cmTC_17dbd.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_4b255.dir\\Debug\\cmTC_4b255.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_17dbd.dir\\Debug\\cmTC_17dbd.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4b255.dir\\Debug\\\\" /Fd"cmTC_4b255.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\CheckIncludeFile.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_17dbd.dir\\Debug\\\\" /Fd"cmTC_17dbd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\CheckIncludeFile.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           CheckIncludeFile.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4b255.dir\\Debug\\\\" /Fd"cmTC_4b255.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\CheckIncludeFile.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_17dbd.dir\\Debug\\\\" /Fd"cmTC_17dbd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\CheckIncludeFile.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\Debug\\cmTC_4b255.exe" /INCREMENTAL /ILK:"cmTC_4b255.dir\\Debug\\cmTC_4b255.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-p739hq/Debug/cmTC_4b255.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-p739hq/Debug/cmTC_4b255.lib" /MACHINE:X64  /machine:x64 cmTC_4b255.dir\\Debug\\CheckIncludeFile.obj
-          cmTC_4b255.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\Debug\\cmTC_4b255.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\Debug\\cmTC_17dbd.exe" /INCREMENTAL /ILK:"cmTC_17dbd.dir\\Debug\\cmTC_17dbd.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-ozez3b/Debug/cmTC_17dbd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-ozez3b/Debug/cmTC_17dbd.lib" /MACHINE:X64  /machine:x64 cmTC_17dbd.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_17dbd.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\Debug\\cmTC_17dbd.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_4b255.dir\\Debug\\cmTC_4b255.tlog\\unsuccessfulbuild".
-          Touching "cmTC_4b255.dir\\Debug\\cmTC_4b255.tlog\\cmTC_4b255.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-p739hq\\cmTC_4b255.vcxproj" (default targets).
+          Deleting file "cmTC_17dbd.dir\\Debug\\cmTC_17dbd.tlog\\unsuccessfulbuild".
+          Touching "cmTC_17dbd.dir\\Debug\\cmTC_17dbd.tlog\\cmTC_17dbd.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-ozez3b\\cmTC_17dbd.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.67
+        Time Elapsed 00:00:01.20
         
       exitCode: 0
   -
@@ -448,8 +448,8 @@ events:
     checks:
       - "Check size of void*"
     directories:
-      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-jbioxx"
-      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-jbioxx"
+      source: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-yxao8v"
+      binary: "C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-yxao8v"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -460,37 +460,37 @@ events:
       variable: "HAVE_SIZEOF_VOID_PTR"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-jbioxx'
+        Change Dir: 'C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-yxao8v'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8f8bc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d9efc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.4.1+9a89d02ff for .NET Framework
-        Build started 03/10/2024 09:23:31.
-        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\cmTC_8f8bc.vcxproj" on node 1 (default targets).
+        Build started 03/10/2024 12:10:57.
+        Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\cmTC_d9efc.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_8f8bc.dir\\Debug\\".
-          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\Debug\\".
-          Creating directory "cmTC_8f8bc.dir\\Debug\\cmTC_8f8bc.tlog\\".
+          Creating directory "cmTC_d9efc.dir\\Debug\\".
+          Creating directory "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\Debug\\".
+          Creating directory "cmTC_d9efc.dir\\Debug\\cmTC_d9efc.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_8f8bc.dir\\Debug\\cmTC_8f8bc.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_d9efc.dir\\Debug\\cmTC_d9efc.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8f8bc.dir\\Debug\\\\" /Fd"cmTC_8f8bc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\SIZEOF_VOID_PTR.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d9efc.dir\\Debug\\\\" /Fd"cmTC_d9efc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\SIZEOF_VOID_PTR.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31937 for x64
           SIZEOF_VOID_PTR.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8f8bc.dir\\Debug\\\\" /Fd"cmTC_8f8bc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\SIZEOF_VOID_PTR.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d9efc.dir\\Debug\\\\" /Fd"cmTC_d9efc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\SIZEOF_VOID_PTR.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\Debug\\cmTC_8f8bc.exe" /INCREMENTAL /ILK:"cmTC_8f8bc.dir\\Debug\\cmTC_8f8bc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-jbioxx/Debug/cmTC_8f8bc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-jbioxx/Debug/cmTC_8f8bc.lib" /MACHINE:X64  /machine:x64 cmTC_8f8bc.dir\\Debug\\SIZEOF_VOID_PTR.obj
-          cmTC_8f8bc.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\Debug\\cmTC_8f8bc.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\Debug\\cmTC_d9efc.exe" /INCREMENTAL /ILK:"cmTC_d9efc.dir\\Debug\\cmTC_d9efc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-yxao8v/Debug/cmTC_d9efc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/CMakeScratch/TryCompile-yxao8v/Debug/cmTC_d9efc.lib" /MACHINE:X64  /machine:x64 cmTC_d9efc.dir\\Debug\\SIZEOF_VOID_PTR.obj
+          cmTC_d9efc.vcxproj -> C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\Debug\\cmTC_d9efc.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_8f8bc.dir\\Debug\\cmTC_8f8bc.tlog\\unsuccessfulbuild".
-          Touching "cmTC_8f8bc.dir\\Debug\\cmTC_8f8bc.tlog\\cmTC_8f8bc.lastbuildstate".
-        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-jbioxx\\cmTC_8f8bc.vcxproj" (default targets).
+          Deleting file "cmTC_d9efc.dir\\Debug\\cmTC_d9efc.tlog\\unsuccessfulbuild".
+          Touching "cmTC_d9efc.dir\\Debug\\cmTC_d9efc.tlog\\cmTC_d9efc.lastbuildstate".
+        Done Building Project "C:\\Users\\danfe\\source\\repos\\Games-Engineering\\solutions\\CMakeFiles\\CMakeScratch\\TryCompile-yxao8v\\cmTC_d9efc.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.06
+        Time Elapsed 00:00:01.29
         
       exitCode: 0
 ...

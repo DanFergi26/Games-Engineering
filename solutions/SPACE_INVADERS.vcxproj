@@ -336,7 +336,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\game.h" />
     <ClCompile Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\main.cpp" />
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\ship.cpp" />
+    <ClInclude Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\ship.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\ZERO_CHECK.vcxproj">

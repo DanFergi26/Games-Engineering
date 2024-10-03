@@ -4,11 +4,25 @@
     <ClCompile Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\ship.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\danfe\source\repos\Games-Engineering\space_invaders\ship.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\CMakelists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B1E7A254-5CCF-34A0-BF75-3BD2CF22E2C6}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{E2C2C19C-E768-38F2-85CC-09A5BE51E180}</UniqueIdentifier>
     </Filter>
