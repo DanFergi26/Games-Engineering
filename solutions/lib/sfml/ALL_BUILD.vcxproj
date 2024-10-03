@@ -25,7 +25,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{417857CA-7F8F-3C37-B294-D52DCC637622}</ProjectGuid>
+    <ProjectGuid>{30BCAD50-D999-334C-80F7-0ABA3C00D4DA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -112,7 +112,7 @@
       <UseUtf8Encoding>Always</UseUtf8Encoding>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/danfe/source/repos/Games-Engineering/lib/sfml/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Games_Eng_Builds --check-stamp-file C:/Games_Eng_Builds/lib/sfml/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Users/danfe/source/repos/Games-Engineering/solutions --check-stamp-file C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -121,11 +121,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPack.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPackComponent.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Templates\CPackConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\Config.cmake;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfigDependencies.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Games_Eng_Builds\lib\sfml\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/danfe/source/repos/Games-Engineering/lib/sfml/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Games_Eng_Builds --check-stamp-file C:/Games_Eng_Builds/lib/sfml/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Users/danfe/source/repos/Games-Engineering/solutions --check-stamp-file C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -134,11 +134,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPack.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPackComponent.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Templates\CPackConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\Config.cmake;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfigDependencies.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Games_Eng_Builds\lib\sfml\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/danfe/source/repos/Games-Engineering/lib/sfml/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Games_Eng_Builds --check-stamp-file C:/Games_Eng_Builds/lib/sfml/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Users/danfe/source/repos/Games-Engineering/solutions --check-stamp-file C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -147,11 +147,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPack.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPackComponent.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Templates\CPackConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\Config.cmake;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfigDependencies.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Games_Eng_Builds\lib\sfml\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/danfe/source/repos/Games-Engineering/lib/sfml/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Games_Eng_Builds --check-stamp-file C:/Games_Eng_Builds/lib/sfml/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/danfe/source/repos/Games-Engineering -BC:/Users/danfe/source/repos/Games-Engineering/solutions --check-stamp-file C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -160,41 +160,41 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPack.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CPackComponent.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Templates\CPackConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\Config.cmake;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfig.cmake.in;C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\cmake\SFMLConfigDependencies.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Games_Eng_Builds\lib\sfml\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Games_Eng_Builds\ZERO_CHECK.vcxproj">
-      <Project>{5BEAA98B-3890-3111-ADBF-46900A692518}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\ZERO_CHECK.vcxproj">
+      <Project>{107CF417-3595-3C93-8DA0-C09B53EF46CD}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Audio\sfml-audio.vcxproj">
-      <Project>{BE9BDC98-DECE-33BE-8F1B-5950EB1E3E0D}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Audio\sfml-audio.vcxproj">
+      <Project>{6C4C8970-7B8B-3DFB-A866-F67333925213}</Project>
       <Name>sfml-audio</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Graphics\sfml-graphics.vcxproj">
-      <Project>{903E3B0D-8750-3FC4-8D52-05F5CB8FCAAA}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Graphics\sfml-graphics.vcxproj">
+      <Project>{47675C73-7D93-32A0-B552-838EDB40BD55}</Project>
       <Name>sfml-graphics</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Main\sfml-main.vcxproj">
-      <Project>{FD50BC10-BEC0-3465-A861-49951084E96A}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Main\sfml-main.vcxproj">
+      <Project>{8CA6BBE5-F89E-31FE-9C24-3BD92B57A1C0}</Project>
       <Name>sfml-main</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Network\sfml-network.vcxproj">
-      <Project>{6E175DE2-D72E-38A6-B3C0-71C80D5240A4}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Network\sfml-network.vcxproj">
+      <Project>{00211034-86B1-3B38-9949-ACBF8C2E0FB2}</Project>
       <Name>sfml-network</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\System\sfml-system.vcxproj">
-      <Project>{331E88D7-285D-3172-9D77-81EDEC224D45}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\System\sfml-system.vcxproj">
+      <Project>{F5D3BE75-F65B-3404-859E-9362FFB54580}</Project>
       <Name>sfml-system</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Window\sfml-window.vcxproj">
-      <Project>{3996AC23-9B45-388B-9270-078DC5E0D4F8}</Project>
+    <ProjectReference Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Window\sfml-window.vcxproj">
+      <Project>{FB9099C7-7B2E-3963-9F95-39664569D027}</Project>
       <Name>sfml-window</Name>
     </ProjectReference>
   </ItemGroup>

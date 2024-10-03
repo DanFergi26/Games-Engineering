@@ -34,12 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/System/cmake_install.cmake")
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/Main/cmake_install.cmake")
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/Window/cmake_install.cmake")
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/Network/cmake_install.cmake")
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/Graphics/cmake_install.cmake")
-  include("C:/Games_Eng_Builds/lib/sfml/src/SFML/Audio/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/System/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/Main/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/Window/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/Network/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/Graphics/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/src/SFML/Audio/cmake_install.cmake")
 
 endif()
 

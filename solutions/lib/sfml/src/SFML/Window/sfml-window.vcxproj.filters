@@ -104,11 +104,11 @@
     <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\src\SFML\Window\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Window\sfml-window.rc" />
+    <ResourceCompile Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Window\sfml-window.rc" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="windows">
-      <UniqueIdentifier>{EDDDF2CB-C118-3AE0-B026-567AA7F2377C}</UniqueIdentifier>
+      <UniqueIdentifier>{B8837C66-BA60-3491-B208-6F0654B596AA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

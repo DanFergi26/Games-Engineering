@@ -1,8 +1,4 @@
 # CMake generation dependency list for this directory.
-C:/Games_Eng_Builds/CMakeFiles/3.30.3/CMakeCCompiler.cmake
-C:/Games_Eng_Builds/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake
-C:/Games_Eng_Builds/CMakeFiles/3.30.3/CMakeRCCompiler.cmake
-C:/Games_Eng_Builds/CMakeFiles/3.30.3/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
@@ -23,3 +19,7 @@ C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
 C:/Users/danfe/source/repos/Games-Engineering/CMakeLists.txt
+C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/3.30.3/CMakeCCompiler.cmake
+C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake
+C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/3.30.3/CMakeRCCompiler.cmake
+C:/Users/danfe/source/repos/Games-Engineering/solutions/CMakeFiles/3.30.3/CMakeSystem.cmake

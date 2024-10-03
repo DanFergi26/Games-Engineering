@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Games_Eng_Builds/lib/sfml/cmake_install.cmake")
+  include("C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/cmake_install.cmake")
 
 endif()
 
@@ -53,6 +53,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Games_Eng_Builds/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/danfe/source/repos/Games-Engineering/solutions/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

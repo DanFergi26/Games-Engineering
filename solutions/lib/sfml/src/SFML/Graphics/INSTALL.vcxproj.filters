@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Games_Eng_Builds\CMakeFiles\68a6075140f6bd4654d1758cf0061d16\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\CMakeFiles\a61debc9d9beb5e2d3fd8b739918351a\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{D7A502DA-960F-31FD-9066-92C1BCEAA5C2}</UniqueIdentifier>
+      <UniqueIdentifier>{CAC9D751-A6F1-3209-A2DA-79859B05A2D0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

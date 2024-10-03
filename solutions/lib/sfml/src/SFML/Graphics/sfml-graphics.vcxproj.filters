@@ -121,14 +121,14 @@
     <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\src\SFML\Graphics\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Graphics\sfml-graphics.rc" />
+    <ResourceCompile Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Graphics\sfml-graphics.rc" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="drawables">
-      <UniqueIdentifier>{FD443680-9BDB-3EAD-8232-DFB72B1403BD}</UniqueIdentifier>
+      <UniqueIdentifier>{D1F7846B-3AA8-368A-9AF5-238B0A1B02A8}</UniqueIdentifier>
     </Filter>
     <Filter Include="render texture">
-      <UniqueIdentifier>{22EE63BC-F82F-3F9D-B38C-D9859DA059CF}</UniqueIdentifier>
+      <UniqueIdentifier>{507449BB-2270-39EC-BDD1-4AA7D4FC9B12}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

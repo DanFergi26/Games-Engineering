@@ -92,11 +92,11 @@
     <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\src\SFML\Audio\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Audio\sfml-audio.rc" />
+    <ResourceCompile Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Audio\sfml-audio.rc" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="codecs">
-      <UniqueIdentifier>{374BC6FB-053F-37C1-BC9B-4061EF195A43}</UniqueIdentifier>
+      <UniqueIdentifier>{4846894E-B493-3549-BB98-7298CDCF4B1F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

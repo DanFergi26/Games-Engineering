@@ -136,169 +136,169 @@ set_target_properties(sfml-audio PROPERTIES
 # Import target "sfml-system" for configuration "Debug"
 set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-system PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-system-d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/bin/Debug/sfml-system-d-2.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-system-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Debug/sfml-system-d-2.dll"
   )
 
 # Import target "sfml-main" for configuration "Debug"
 set_property(TARGET sfml-main APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-main PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-main-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-main-d.lib"
   )
 
 # Import target "sfml-window" for configuration "Debug"
 set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-window PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-window-d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/bin/Debug/sfml-window-d-2.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-window-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Debug/sfml-window-d-2.dll"
   )
 
 # Import target "sfml-network" for configuration "Debug"
 set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-network PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-network-d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/bin/Debug/sfml-network-d-2.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-network-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Debug/sfml-network-d-2.dll"
   )
 
 # Import target "sfml-graphics" for configuration "Debug"
 set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-graphics PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-graphics-d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/bin/Debug/sfml-graphics-d-2.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-graphics-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Debug/sfml-graphics-d-2.dll"
   )
 
 # Import target "sfml-audio" for configuration "Debug"
 set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-audio PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Games_Eng_Builds/lib/sfml/lib/Debug/sfml-audio-d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Games_Eng_Builds/bin/Debug/sfml-audio-d-2.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Debug/sfml-audio-d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Debug/sfml-audio-d-2.dll"
   )
 
 # Import target "sfml-system" for configuration "Release"
 set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-system PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-system.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/bin/Release/sfml-system-2.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-system.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Release/sfml-system-2.dll"
   )
 
 # Import target "sfml-main" for configuration "Release"
 set_property(TARGET sfml-main APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-main PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-main.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-main.lib"
   )
 
 # Import target "sfml-window" for configuration "Release"
 set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-window PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-window.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/bin/Release/sfml-window-2.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-window.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Release/sfml-window-2.dll"
   )
 
 # Import target "sfml-network" for configuration "Release"
 set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-network PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-network.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/bin/Release/sfml-network-2.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-network.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Release/sfml-network-2.dll"
   )
 
 # Import target "sfml-graphics" for configuration "Release"
 set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-graphics PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-graphics.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/bin/Release/sfml-graphics-2.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-graphics.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Release/sfml-graphics-2.dll"
   )
 
 # Import target "sfml-audio" for configuration "Release"
 set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(sfml-audio PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Games_Eng_Builds/lib/sfml/lib/Release/sfml-audio.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Games_Eng_Builds/bin/Release/sfml-audio-2.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/Release/sfml-audio.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/Release/sfml-audio-2.dll"
   )
 
 # Import target "sfml-system" for configuration "MinSizeRel"
 set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-system PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-system.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/bin/MinSizeRel/sfml-system-2.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-system.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/MinSizeRel/sfml-system-2.dll"
   )
 
 # Import target "sfml-main" for configuration "MinSizeRel"
 set_property(TARGET sfml-main APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-main PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_MINSIZEREL "CXX"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-main.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-main.lib"
   )
 
 # Import target "sfml-window" for configuration "MinSizeRel"
 set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-window PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-window.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/bin/MinSizeRel/sfml-window-2.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-window.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/MinSizeRel/sfml-window-2.dll"
   )
 
 # Import target "sfml-network" for configuration "MinSizeRel"
 set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-network PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-network.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/bin/MinSizeRel/sfml-network-2.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-network.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/MinSizeRel/sfml-network-2.dll"
   )
 
 # Import target "sfml-graphics" for configuration "MinSizeRel"
 set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-graphics PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-graphics.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/bin/MinSizeRel/sfml-graphics-2.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-graphics.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/MinSizeRel/sfml-graphics-2.dll"
   )
 
 # Import target "sfml-audio" for configuration "MinSizeRel"
 set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS MINSIZEREL)
 set_target_properties(sfml-audio PROPERTIES
-  IMPORTED_IMPLIB_MINSIZEREL "C:/Games_Eng_Builds/lib/sfml/lib/MinSizeRel/sfml-audio.lib"
-  IMPORTED_LOCATION_MINSIZEREL "C:/Games_Eng_Builds/bin/MinSizeRel/sfml-audio-2.dll"
+  IMPORTED_IMPLIB_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/MinSizeRel/sfml-audio.lib"
+  IMPORTED_LOCATION_MINSIZEREL "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/MinSizeRel/sfml-audio-2.dll"
   )
 
 # Import target "sfml-system" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-system PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-system.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/bin/RelWithDebInfo/sfml-system-2.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-system.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/RelWithDebInfo/sfml-system-2.dll"
   )
 
 # Import target "sfml-main" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-main APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-main PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_RELWITHDEBINFO "CXX"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-main.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-main.lib"
   )
 
 # Import target "sfml-window" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-window PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-window.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/bin/RelWithDebInfo/sfml-window-2.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-window.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/RelWithDebInfo/sfml-window-2.dll"
   )
 
 # Import target "sfml-network" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-network PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-network.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/bin/RelWithDebInfo/sfml-network-2.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-network.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/RelWithDebInfo/sfml-network-2.dll"
   )
 
 # Import target "sfml-graphics" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-graphics PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-graphics.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/bin/RelWithDebInfo/sfml-graphics-2.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-graphics.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/RelWithDebInfo/sfml-graphics-2.dll"
   )
 
 # Import target "sfml-audio" for configuration "RelWithDebInfo"
 set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS RELWITHDEBINFO)
 set_target_properties(sfml-audio PROPERTIES
-  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Games_Eng_Builds/lib/sfml/lib/RelWithDebInfo/sfml-audio.lib"
-  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Games_Eng_Builds/bin/RelWithDebInfo/sfml-audio-2.dll"
+  IMPORTED_IMPLIB_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/lib/sfml/lib/RelWithDebInfo/sfml-audio.lib"
+  IMPORTED_LOCATION_RELWITHDEBINFO "C:/Users/danfe/source/repos/Games-Engineering/solutions/bin/RelWithDebInfo/sfml-audio-2.dll"
   )
 
 # This file does not depend on other imported targets which have

@@ -31,7 +31,7 @@
     <CustomBuild Include="C:\Users\danfe\source\repos\Games-Engineering\lib\sfml\src\SFML\Network\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Games_Eng_Builds\lib\sfml\src\SFML\Network\sfml-network.rc" />
+    <ResourceCompile Include="C:\Users\danfe\source\repos\Games-Engineering\solutions\lib\sfml\src\SFML\Network\sfml-network.rc" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
