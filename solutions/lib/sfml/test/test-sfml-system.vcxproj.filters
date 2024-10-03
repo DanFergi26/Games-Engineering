@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\src\CatchMain.cpp" />
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\src\System\Vector2.cpp" />
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\src\System\Vector3.cpp" />
+    <ClCompile Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\src\TestUtilities\SystemUtil.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\src\TestUtilities\SystemUtil.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\danfe\source\repos\Games-Eng\lib\sfml\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

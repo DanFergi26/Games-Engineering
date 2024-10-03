@@ -1,0 +1,9 @@
+test-sfml-system 0 0
+test-sfml-window 0 0
+test-sfml-graphics 0 0
+test-sfml-network 0 0
+---
+test-sfml-system
+test-sfml-window
+test-sfml-graphics
+test-sfml-network
